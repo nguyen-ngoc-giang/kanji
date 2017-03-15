@@ -1,4 +1,22 @@
-#Cách nhớ chữ 安 (Ān) AN: An toàn
+Table of Contents
+=================
+
+    * [Cách nhớ chữ 安 (Ān) AN: An toàn](#Cách nhớ chữ 安 (Ān) AN: An toàn).
+    * [Cách nhớ chữ 好 (Hǎo) – HẢO: Tốt đẹp](#Cách nhớ chữ 好 (Hǎo) – HẢO: Tốt đẹp)
+    * [Cách nhớ chữ 始 (Shǐ) – Thuỷ			](#Cách nhớ chữ 始 (Shǐ) – Thuỷ)
+    * [Cách nhớ chữ 霜 (Shuāng) – Sương](# Cách nhớ chữ 霜 (Shuāng) – Sương)
+    * [Cách nhớ chữ 然 (Rán) – Nhiên](# Cách nhớ chữ 然 (Rán) – Nhiên)
+    * [Cách nhớ chữ 忍 (Rěn) – Nhẫn](# Cách nhớ chữ 忍 (Rěn) – Nhẫn)
+    * [Cách nhớ chữ 男 (Nán) – Nam](# Cách nhớ chữ 男 (Nán) – Nam)
+    * [Cách nhớ chữ 心 (Xīn) – Tâm](# Cách nhớ chữ 心 (Xīn) – Tâm)
+    * [Cách nhớ chữ 田 (Tián) – Điền](# Cách nhớ chữ 田 (Tián) – Điền)
+    * [Cách nhớ chữ 教 (Jiào) – Giáo](# Cách nhớ chữ 教 (Jiào) – Giáo)
+    * [Cách nhớ chữ 德 (Dé) – Đức](# Cách nhớ chữ 德 (Dé) – Đức)
+    * [Cách nhớ chữ 來 (来) – (Lái) – Lai](# Cách nhớ chữ 來 (来) – (Lái) – Lai)
+    * [Cách nhớ chữ 轰 (轟) – (Hōng) – Oanh](# Cách nhớ chữ 轰 (轟) – (Hōng) – Oanh)
+    * [Cách nhớ chữ: ĐẠM – 淡 (Dàn)](# Cách nhớ chữ: ĐẠM – 淡 (Dàn))
+
+## Cách nhớ chữ 安 (Ān) AN: An toàn
 
 安 (Ān) AN: An toàn.
 Ở trên là bộ MIÊN 宀  => mái nhà, mái che.
@@ -15,7 +33,7 @@ Sao cô yên phận đứng hoài thế cô?
 
 Ví dụ: 安全 (Ānquán) – An Toàn
 
-#Cách nhớ chữ 好 (Hǎo) – HẢO: Tốt đẹp
+## Cách nhớ chữ 好 (Hǎo) – HẢO: Tốt đẹp
 
 好 (Hǎo) – HẢO: Tốt đẹp
 Bên trái là bộ 女 nghĩa là phụ nữ, người mẹ Bên phải là chữ Tử, nghĩa là đứa con, trẻ con
@@ -36,7 +54,7 @@ Yểu điệu thục nữ
 
 Quân tử hảo cầu
 
-#Cách nhớ chữ 孝 (Xiào) – Hiếu
+## Cách nhớ chữ 孝 (Xiào) – Hiếu
 
 孝 (Xiào) – Hiếu
 
@@ -54,7 +72,7 @@ Con ai mà đứng ở đây.
 
 Đứng thì chẳng đứng, vịn ngay vào sào
 
-#Cách nhớ chữ 始 (Shǐ) – Thuỷ
+## Cách nhớ chữ 始 (Shǐ) – Thuỷ
 
 始 (Shǐ) – Thuỷ
 
@@ -66,7 +84,7 @@ Cách nhớ bằng thơ:
 
 Chồng con chưa có kè kè mang thai.”
 
-#Cách nhớ chữ 霜 (Shuāng) – Sương
+## Cách nhớ chữ 霜 (Shuāng) – Sương
 
 霜 (Shuāng) – Sương
 
@@ -78,7 +96,7 @@ Cách nhớ:
 
 Giọt mưa 雨 (Yǔ) VŨ đọng trên lá cây 木 (Mù) MỘC hay đọng trên mắt 目(Mù) MỤC thì chính là giọt SƯƠNG 霜 (shuang)
 
-#Cách nhớ chữ 然 (Rán) – Nhiên
+## Cách nhớ chữ 然 (Rán) – Nhiên
 
 然 (Rán) – Nhiên
 
@@ -92,7 +110,7 @@ Cách nhớ:
 
 Chó (犬) sủa canh chầy, trống lại điểm tư (4 dấu phẩy).”
 
-#Cách nhớ chữ 忍 (Rěn) – Nhẫn
+## Cách nhớ chữ 忍 (Rěn) – Nhẫn
 
 忍 (Rěn) – Nhẫn
 
@@ -106,7 +124,7 @@ Nếu bạn chịu được đao đâm vào tim bạn là người “nhẫn”.
 
 Có một người bạn Trung Quốc nói với tôi rằng, có 1 cách giải thích khác: Khi nào bạn dám cầm dao đâm vào tim người khác, khi đó bạn mới là: “Nhẫn” (Nhẫn tâm) – 忍心  (Rěnxīn)
 
-#Cách nhớ chữ 男 (Nán) – Nam
+## Cách nhớ chữ 男 (Nán) – Nam
 
 男 (Nán) – Nam
 
@@ -120,7 +138,7 @@ Người dùng lực nâng được cả ruộng lên vai => người đàn ông
 
 Ví dụ: Nam nữ thụ thụ bất thân –男女受受不亲 (Nánnǚ shòu shòu bù qīn)
 
-#Cách nhớ chữ 心 (Xīn) – Tâm
+## Cách nhớ chữ 心 (Xīn) – Tâm
 
 心 (Xīn) – Tâm
 
@@ -138,7 +156,7 @@ Ví dụ: Họa hổ, họa bì, nan họa cốt – Tri nhân tri diện bất 
 
 (Huà hǔ huàpí nán huà gǔ, zhīrén zhī miàn bùzhī xīn)
 
-#Cách nhớ chữ 田 (Tián) – Điền
+## Cách nhớ chữ 田 (Tián) – Điền
 
 田 (Tián) – Điền
 
@@ -162,7 +180,7 @@ Qua câu này chúng ta nhớ thêm được cả 4 từ:
 
 – Khẩu:口 （Kǒu）– 4 chữ Khẩu đứng gần nhau ra chữ Điền 田
 
-#Cách nhớ chữ 教 (Jiào) – Giáo
+## Cách nhớ chữ 教 (Jiào) – Giáo
 
 教 (Jiào) – Giáo
 
@@ -176,7 +194,7 @@ Cách nhớ:
 
 Con lay chẳng nổi, cha bâu đầu vào
 
-#Cách nhớ chữ 德 (Dé) – Đức
+## Cách nhớ chữ 德 (Dé) – Đức
 
 德 (Dé) – Đức
 
@@ -193,7 +211,7 @@ Dưới nữa là chữ Nhất: 一
 
 Dưới cùng là chữ Tâm: 心
 
-#Cách nhớ chữ 來 (来) – (Lái) – Lai
+## Cách nhớ chữ 來 (来) – (Lái) – Lai
 
 來 (来) – (Lái) – Lai
 
@@ -208,7 +226,7 @@ Cách nhớ:
 
 Hai người cứ đuổi theo nhau xung quanh gốc cây thì lúc nào cũng phải đến với nhau ==> LA
 
-#Cách nhớ chữ 轰 (轟) – (Hōng ) – Oanh
+## Cách nhớ chữ 轰 (轟) – (Hōng ) – Oanh
 
 轰 (轟) – (Hōng ) – Oanh
 
@@ -636,7 +654,7 @@ Bên ngoài có bộ 口 (Kǒu) – KHẨU nghĩa là mồm. Chữ này cũng c�
 
 – Bên trái là bộ ba chấm THỦY- Bên phải là 2 chữ HỎA đè lên nhau
 
-– #Cách nhớ chữ: ĐẠM – 淡 (Dàn) với nghĩa là ĐẠM BẠC, ẢM ĐẠM (không có vị, yếu ớt, nhạt nhòa, thiếu thốn) 
+– ## Cách nhớ chữ: ĐẠM – 淡 (Dàn) với nghĩa là ĐẠM BẠC, ẢM ĐẠM (không có vị, yếu ớt, nhạt nhòa, thiếu thốn) 
 
 THỦY và HỎA vốn là 2 nguyên tố không thế đứng cùng nhau vì trong phong thủy chúng vốn tương khắc nhau. Chính vì vậy khi có bộ chấm THỦY đứng cạnh hai ngọn LỬA rất to sẽ dẫn đến việc triệt tiêu lẫn nhau, lửa sẽ nhỏ đi và nước cũng bốc hơi bớt. Hình ảnh này tạo ra từ ĐẠM. Chúng ta có thể dễ dàng bắt gặp từ ĐẠM trong tình huống nói: Bữa ăn đạm bạc, Không khí ảm đạm,
 
