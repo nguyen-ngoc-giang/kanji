@@ -1,23 +1,11 @@
-Table of Contents
-=================
+Học qua thơ
+################
 
-    * [Cách nhớ chữ 安 (Ān) AN: An toàn](#Cách nhớ chữ 安 (Ān) AN: An toàn).
-    * [Cách nhớ chữ 好 (Hǎo) – HẢO: Tốt đẹp](#Cách nhớ chữ 好 (Hǎo) – HẢO: Tốt đẹp)
-    * [Cách nhớ chữ 始 (Shǐ) – Thuỷ			](#Cách nhớ chữ 始 (Shǐ) – Thuỷ)
-    * [Cách nhớ chữ 霜 (Shuāng) – Sương](# Cách nhớ chữ 霜 (Shuāng) – Sương)
-    * [Cách nhớ chữ 然 (Rán) – Nhiên](# Cách nhớ chữ 然 (Rán) – Nhiên)
-    * [Cách nhớ chữ 忍 (Rěn) – Nhẫn](# Cách nhớ chữ 忍 (Rěn) – Nhẫn)
-    * [Cách nhớ chữ 男 (Nán) – Nam](# Cách nhớ chữ 男 (Nán) – Nam)
-    * [Cách nhớ chữ 心 (Xīn) – Tâm](# Cách nhớ chữ 心 (Xīn) – Tâm)
-    * [Cách nhớ chữ 田 (Tián) – Điền](# Cách nhớ chữ 田 (Tián) – Điền)
-    * [Cách nhớ chữ 教 (Jiào) – Giáo](# Cách nhớ chữ 教 (Jiào) – Giáo)
-    * [Cách nhớ chữ 德 (Dé) – Đức](# Cách nhớ chữ 德 (Dé) – Đức)
-    * [Cách nhớ chữ 來 (来) – (Lái) – Lai](# Cách nhớ chữ 來 (来) – (Lái) – Lai)
-    * [Cách nhớ chữ 轰 (轟) – (Hōng) – Oanh](# Cách nhớ chữ 轰 (轟) – (Hōng) – Oanh)
-    * [Cách nhớ chữ: ĐẠM – 淡 (Dàn)](# Cách nhớ chữ: ĐẠM – 淡 (Dàn))
-
-## Cách nhớ chữ 安 (Ān) AN: An toàn
-
+Bí kíp này tại hạ tổng hợp lại cho các đồng môn học tiếng Hán đỡ khổ sở hơn.
+ 
+Chữ 安 (Ān) AN: An toàn
+=========================
+ 
 安 (Ān) AN: An toàn.
 Ở trên là bộ MIÊN 宀  => mái nhà, mái che.
 
@@ -32,9 +20,10 @@ Cô kia đội nón chờ ai?
 Sao cô yên phận đứng hoài thế cô?
 
 Ví dụ: 安全 (Ānquán) – An Toàn
-
-## Cách nhớ chữ 好 (Hǎo) – HẢO: Tốt đẹp
-
+ 
+Cách nhớ chữ 好 (Hǎo) – HẢO: Tốt đẹp
+------------------
+ 
 好 (Hǎo) – HẢO: Tốt đẹp
 Bên trái là bộ 女 nghĩa là phụ nữ, người mẹ Bên phải là chữ Tử, nghĩa là đứa con, trẻ con
 
@@ -54,8 +43,9 @@ Yểu điệu thục nữ
 
 Quân tử hảo cầu
 
-## Cách nhớ chữ 孝 (Xiào) – Hiếu
-
+Cách nhớ chữ 孝 (Xiào) – Hiếu
+-------------------------------
+ 
 孝 (Xiào) – Hiếu
 
 Ở trên là bộ THỔ  – 土 (Tǔ) với nghĩa là đất
@@ -72,8 +62,9 @@ Con ai mà đứng ở đây.
 
 Đứng thì chẳng đứng, vịn ngay vào sào
 
-## Cách nhớ chữ 始 (Shǐ) – Thuỷ
-
+Cách nhớ chữ 始 (Shǐ) – Thuỷ
+--------------------------
+ 
 始 (Shǐ) – Thuỷ
 
 Đây là câu đố chiết tự chữ thủy 始. Chữ thủy 始 vốn là một chữ hình thanh, có chữ thai 台 chỉ âm, chữ nữ 女 (con gái) nói nghĩa.Những trường hợp này xuất hiện rất ít và thường thì không chỉ thuần nhất chiết tự về âm đọc mà còn kèm theo cả phần hình thể hoặc ý nghĩa.
@@ -84,7 +75,8 @@ Cách nhớ bằng thơ:
 
 Chồng con chưa có kè kè mang thai.”
 
-## Cách nhớ chữ 霜 (Shuāng) – Sương
+Cách nhớ chữ 霜 (Shuāng) – Sương
+----------------------------------------------------------------
 
 霜 (Shuāng) – Sương
 
@@ -96,7 +88,8 @@ Cách nhớ:
 
 Giọt mưa 雨 (Yǔ) VŨ đọng trên lá cây 木 (Mù) MỘC hay đọng trên mắt 目(Mù) MỤC thì chính là giọt SƯƠNG 霜 (shuang)
 
-## Cách nhớ chữ 然 (Rán) – Nhiên
+Cách nhớ chữ 然 (Rán) – Nhiên
+-------------------------
 
 然 (Rán) – Nhiên
 
@@ -109,9 +102,10 @@ Cách nhớ:
 “Đêm (月) tàn nguyệt xế về Tây,
 
 Chó (犬) sủa canh chầy, trống lại điểm tư (4 dấu phẩy).”
-
-## Cách nhớ chữ 忍 (Rěn) – Nhẫn
-
+ 
+Cách nhớ chữ 忍 (Rěn) – Nhẫn
+---------------
+ 
 忍 (Rěn) – Nhẫn
 
 Ở trên là bộ 刀 đao (刂) => con dao, cây đao (vũ khí)
@@ -124,8 +118,9 @@ Nếu bạn chịu được đao đâm vào tim bạn là người “nhẫn”.
 
 Có một người bạn Trung Quốc nói với tôi rằng, có 1 cách giải thích khác: Khi nào bạn dám cầm dao đâm vào tim người khác, khi đó bạn mới là: “Nhẫn” (Nhẫn tâm) – 忍心  (Rěnxīn)
 
-## Cách nhớ chữ 男 (Nán) – Nam
-
+Cách nhớ chữ 男 (Nán) – Nam
+------------------------
+ 
 男 (Nán) – Nam
 
 Ở trên là bộ田 điền => ruộng
@@ -138,7 +133,8 @@ Người dùng lực nâng được cả ruộng lên vai => người đàn ông
 
 Ví dụ: Nam nữ thụ thụ bất thân –男女受受不亲 (Nánnǚ shòu shòu bù qīn)
 
-## Cách nhớ chữ 心 (Xīn) – Tâm
+Cách nhớ chữ 心 (Xīn) – Tâm
+------------
 
 心 (Xīn) – Tâm
 
@@ -156,8 +152,9 @@ Ví dụ: Họa hổ, họa bì, nan họa cốt – Tri nhân tri diện bất 
 
 (Huà hǔ huàpí nán huà gǔ, zhīrén zhī miàn bùzhī xīn)
 
-## Cách nhớ chữ 田 (Tián) – Điền
-
+Cách nhớ chữ 田 (Tián) – Điền
+-----------
+ 
 田 (Tián) – Điền
 
 Lưỡng nhật (日) bình đầu nhật
@@ -180,8 +177,9 @@ Qua câu này chúng ta nhớ thêm được cả 4 từ:
 
 – Khẩu:口 （Kǒu）– 4 chữ Khẩu đứng gần nhau ra chữ Điền 田
 
-## Cách nhớ chữ 教 (Jiào) – Giáo
-
+Cách nhớ chữ 教 (Jiào) – Giáo
+--------------
+ 
 教 (Jiào) – Giáo
 
 Bên trái là chữ HIẾU, bao gồm ở trên là chữ 土 – THỔ (nghĩa là đất), có một gạch chéo, ở dưới là chữ 子 – TỬ (nghĩa là con)
@@ -194,8 +192,9 @@ Cách nhớ:
 
 Con lay chẳng nổi, cha bâu đầu vào
 
-## Cách nhớ chữ 德 (Dé) – Đức
-
+Cách nhớ chữ 德 (Dé) – Đức
+------------------
+ 
 德 (Dé) – Đức
 
 Chim chích mà đậu cành tre
@@ -211,8 +210,9 @@ Dưới nữa là chữ Nhất: 一
 
 Dưới cùng là chữ Tâm: 心
 
-## Cách nhớ chữ 來 (来) – (Lái) – Lai
-
+Cách nhớ chữ 來 (来) – (Lái) – Lai
+-----------
+ 
 來 (来) – (Lái) – Lai
 
 Hai người núp một gốc cây
@@ -226,7 +226,8 @@ Cách nhớ:
 
 Hai người cứ đuổi theo nhau xung quanh gốc cây thì lúc nào cũng phải đến với nhau ==> LA
 
-## Cách nhớ chữ 轰 (轟) – (Hōng ) – Oanh
+Cách nhớ chữ 轰 (轟) – (Hōng ) – Oanh
+------------------------
 
 轰 (轟) – (Hōng ) – Oanh
 
@@ -238,6 +239,10 @@ Bao gồm 3 chữ Xa 车 chập lại
 Cách nhớ:
 
 Ba xe đi trên đường thì vô cùng ồn ào, náo nhiệt ==> Oanh (trong từ oanh tạc) có nghĩa là oang oang, nổ ầm ầm, tiếng nổ lớn
+
+Các chữ chưa tổng hợp
+------------------------
+
 
 从 (Cóng) – Tòng
 
@@ -767,6 +772,4 @@ Chữ 蠱 – Giản thể: 蛊 (Gǔ)
 Bên trên là bộ TRÙNG – 虫 (chóng) chỉ sâu bọ, bên dưới là bộ MÃNH – 皿 (mǐn) chỉ bát đũa
 
 Tương truyền ngày xưa có một loại côn trùng độc do con người nuôi dưỡng, có thể cho vào thức ăn và đồ uống để đầu độc người khác, khiến cho thần trí hoảng loạn, không thể làm chủ bản thân, nặng có thể dẫn đến liệt tứ thân, phá hủy nội tạng và tử vong. Chữ CỔ trong Giáp Cốt Văn giống hình trong đĩa có con sâu. Nghĩa gốc của chữ CỔ chỉ loài sâu độc do con người nuôi dưỡng. Nghĩa rộng dùng để chỉ ký sinh trùng trong bụng người. Nghĩa rộng nữa là cám dỗ, mê hoặc.
-
-Chia sẻ cùng cả nhà: Nếu ai đã xem qua phim Địch Nhân Kiệt – Rồng Biển Trỗi Dậy 2013 có thể sẽ bắt gặp loài CỔ TRÙNG này trong phim.
 
